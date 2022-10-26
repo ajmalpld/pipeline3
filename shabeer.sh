@@ -1,0 +1,1 @@
+echo "shabeer" > shabeer.txt
